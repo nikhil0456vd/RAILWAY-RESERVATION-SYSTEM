@@ -12,6 +12,6 @@ Search train by train number
 Count total train objects
 Menu-driven interface
 Uses OOP concepts such as Encapsulation, Constructors, Destructors, and Static Members
-## Main Menu
+## Output
 
-![Main Menu](screenshots/main_menu.png)
+![Output](/WhatsApp%20Image%202026-06-17%20at%206.25.17%20PM.jpeg)
